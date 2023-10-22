@@ -1,0 +1,10 @@
+I'm going to give you <$num$> reviews of the <$product_type$> <$product_name$>, from youtube transcripts.
+please sum up for me what is the general opinion on this <$product_type$>. what are the pros and cons?
+
+please DO NOT summarize each review separately. I want A SINGLE SUMMARY that covers the points mentioned in all of the reviews.
+
+PLEASE DO NOT INCLUDE ANY COPIES OF THE REVIEWS THEMSELVES or other irrelevant material, I just want the general summary as requested.
+
+
+
+these are the reviews:
