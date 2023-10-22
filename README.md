@@ -12,7 +12,7 @@ Claude-API<br>https://github.com/KoushikNavuluri/Claude-API<br>pip install claud
 
 # setup
 for the app to work you have to copy your Claude cookie string into the cookie.txt file.
-here:<br>https://github.com/KoushikNavuluri/Claude-API<br>
+<br>here:<br>https://github.com/KoushikNavuluri/Claude-API<br>
 you can find a guide on how to get your individual cookie string.
 
 # how to use
