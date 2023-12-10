@@ -1,6 +1,6 @@
 # metatube
 an app that, given a name and type of product, uses Claude AI to deliver a summary of youtube reviews of the product.
-this app gets a product description from the user, than scrapes youtube for reviews, downloads the transcripts of the review videos, and summarizes them using Claude AI.
+this app gets a product description from the user, then scrapes youtube for reviews, downloads the transcripts of the review videos, and summarizes them using Claude AI.
 yet another example of an automation pipeline using ai for tasks that could not be automated before :)
 
 # prerequisites
